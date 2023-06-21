@@ -89,7 +89,7 @@ h3 {
   color: black;
   margin-left: 800px;
   margin-bottom: 5px;
-  font-size: 175%;
+  font-size: 36px;
   font-weight: bolder;
 }
 
@@ -124,5 +124,39 @@ h3 {
   width: 7%;
   margin: 20px;
   margin-top: 0px;
-  color: rgba(19, 17, 17, 0.753);
+  color: #1f2937;
+}
+
+.container3 {
+  display: flex;
+  height: auto;
+  width: 100%;
+  margin: 20px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  align-items: center;
+  justify-content: center;
+  background-color: #e5e7eb;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  color: #1f2937;
+  width: 750px;
+  margin-left: 120px;
+  padding-top: 80px;
+}
+
+.author {
+  width: 100%;
+  height: 200px;
+  margin-top: 0px;
+  font-size: 30px;
+  font-weight: bolder;
+  background-color: #e5e7eb;
+  color: #1f2937;
+  display: inline-block;
+  padding-left: 1200px;
+  padding-top: 0px;
 }
